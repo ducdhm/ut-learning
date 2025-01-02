@@ -1,0 +1,17 @@
+Step 1: Tạo repository trên github: Dùng để lưu trữ dự án của bạn trên máy chủ git
+Step 2: Tạo dự án trên máy tính cá nhân: Dùng để code và lưu trữ cục bộ trên máy tính. Ó đĩa mà hỏng thì xác định
+Step 3: Khởi tạo git: để khởi tạo một kho lưu trữ Git cục bộ Local repo
+Step 3.1: mở terminal
+Step 3.2: config mặc định chọn git bash khi mở terminal
+Step 3.3: Kiểm tra trạng thái git bằng lệnh (git status)
+Step 3.4: để khởi tạo một kho lưu trữ Git mới trên Local (Git init)
+Sau bước này: Đã có thư mục git để sẵn sàng lưu trữ thay đổi, nhưng chưa có gì được theo dời bằng cách dùng git status
+Step 4: add thư mục dự án vào staging area chờ commit
+git add .: add tất cả
+git add ten_thu_muc: add lẻ thư mục
+staging area -> Vùng chờ commit xác nhận -> Step 5: Commit và đấy code lên github
+git commit -m "first commit" -> localrepo (Sau commit, code đấy vào local repo và chở push lên github)
+git branch -M main
+git remote add origin https://github.com/ComputerAngelVN/vidu3.git -> remote đến máy chủ git
+git push -u origin main -> Push code lên máy chủ Gít
+Step 6: deploy website
