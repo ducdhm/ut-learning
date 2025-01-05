@@ -1,0 +1,52 @@
+$ git branch
+* main
+Xem nhánh local
+
+$ git branch --all
+* main
+ remotes/origin/main
+
+$ git branch -a
+* main
+remotes/origin/main
+- Xem nhánh cả local và remote
+
+git checkout main
+git checkout congviec1
+Chuyển đổi qua lại các nhánh
+
+Copy toàn bộ code ở nhánh hiện tại sang nhánh mới, con trỏ vẫn ở nhánh hiện tại
+git branch -c congviec1
+
+Để chuyển con trỏ sang nhánh congviec1
+git checkout congviec1
+
+Copy toàn bộ code ở nhánh hiện tại sang nhánh mới, con trỏ sang nhánh mới
+$ git checkout -b congviec2
+Switched to a new branch 'congviec2'
+
+Push code từ nhánh con lên github
+git push u origin congviec1
+git push --set-upstream origin congviec2
+git push-u origin congviecl
+git push --set-upstream origin congviec2
+Tham số "-u" để viết tắt cho tham số --set-upstream : thường sử dụng cho lần đầu tiên, Git sẽ tự động thiết lập một mối quan hệ theo dõi giữa nhánh cục bộ (local branch) và nhánh từ xa (remote branch).
+Trong trường hợp này git tạo liên kết giữa nhánh congviec1 trên local và nhánh congviecl trên máy chủ git
+Từ lần 2, đứng tại nhánh congviec1 chỉ cần dùng lệnh git push
+
+Xóa nhánh trên máy tính (local repo)
+$ git branch -d congviecl
+warning: deleting branch congviecl' that has been merged to 'refs/remotes/origin/congviec1', but not yet merged to HEAD.
+Deleted branch congviec1 (was 9dcfb67).
+
+Nếu nhánh có code chưa push sẽ phải ép xóa bằng -D
+$git branch -d congviec2
+error: The branch 'congviec2' is not fully merged.
+If you are sure you want to delete it, run git branch -D congviec2
+
+Xóa nhánh trên remote repo
+$ git push -d origin congviec1
+To https://github.com/tuhocvn/duan5.git - [deleted] congviec1
+
+$ git push -d origin congviec2
+To https://github.com/tuhocvn/duan5.git - [deleted] congviec2
