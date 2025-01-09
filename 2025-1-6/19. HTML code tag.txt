@@ -1,0 +1,3 @@
+Thẻ <code>: là 1 thẻ có ngữ nghĩa
+Sử dụng khi có 1 đoạn code, trình duyệt sẽ hiểu đây là 1 đoạn code
+Thể hiện một khối code độc lập (cần chuyện các ký tự đặc biệt sang HTML Entities)
