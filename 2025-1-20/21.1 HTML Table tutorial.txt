@@ -1,0 +1,9 @@
+Sử dụng cặp thẻ <table> </table> để vẽ bảng
+
+tr: Table Row - Đại diện cho một hàng trong bảng HTML
+td: Table data - Định nghĩa một ô dữ liệu trong một bảng
+th: Table header - Định nghĩa một ô tiêu đề trong bảng
+
+thead: table header - Định nghĩa phần đầu của bảng. Thường chứa các ô tiêu đề ("th") của các cột trong bảng
+tbody: table body - Định nghĩa phần thân của bảng. Thường chứa các thẻ "tr" và các ô dữ liệu ("td") tương ứng
+tfoot: tbale footer - Định nghĩa phần cuối của bảng. Thường chứa các ô chú thích, tổng kết, hoặc thông tin cuối cùng về bảng.

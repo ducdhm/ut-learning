@@ -1,0 +1,2 @@
+Colspan: Chỉ định phần tử chiếm bao nhiêu cột
+Rowspan: Chỉ định phần tự chiếm bao nhiêu hàng
