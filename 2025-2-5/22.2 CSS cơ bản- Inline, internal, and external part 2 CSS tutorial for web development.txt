@@ -1,0 +1,12 @@
+2. Interal (CSS nội bộ)
+Là cách viết mã CSS trong cặp thẻ style (Đặt trong khối head)
+Ưu điểm:
+1. Code tách biệt với phần tự có thể áp dụng với toàn trang ( như ví dụ: áp dụng với toàn bộ thẻ h1)
+Hạn chế: 
+1. Vẫ khó quản lý khi dự án lơn, quá nhiều mã CSS sẽ làm tệp HTML trở nên cồng kềnh
+
+3. External (CSS bên ngoài): trong trương hợp muốn áp dụng cho toàn bộ các file html
+nằm trên trang web, tránh việc phải cope css ra tất cả các file này
+
+rel="stylesheet" thông báo cho trình duyệt, tải tệp CSS được chỉ định và áp dụng
+các quy định dạng kiểu trong tệp đó cho trang web hiện tại.
