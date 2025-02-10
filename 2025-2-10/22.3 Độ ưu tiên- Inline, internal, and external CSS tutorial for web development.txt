@@ -1,0 +1,7 @@
+Độ ưu tiên giữa 3 cách đặt CSS
+Inline (css nội tuyến)
+Iternal (CSS Nội bộ)
+EXternal (CSS bên ngoài)
+
+Iternal (CSS nội bộ) External (CSS bên ngoài): trong code HTML chính, phần khai báo của cách nào ở sau
+thì sẽ ghi đè lên cách trước đó
