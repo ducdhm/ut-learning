@@ -1,0 +1,2 @@
+Các thuộc tính cơ bản của CSS
+Lên google và scearch CSS reference w3c để tìm hiểu về thuộc tính 

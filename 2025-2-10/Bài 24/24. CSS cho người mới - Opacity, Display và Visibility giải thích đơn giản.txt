@@ -1,0 +1,4 @@
+1. Opacity
+thuộc tính opacity
+-0.0 -> 1.0
+-0% -> 100% 	Mờ nhất -> Rõ nhất

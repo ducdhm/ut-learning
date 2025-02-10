@@ -1,0 +1,11 @@
+1. Opacity
+thuộc tính opacity
+-0.0 -> 1.0
+-0% -> 100% 	Mờ nhất -> Rõ nhất 
+
+2. Display: none
+thuộc tính display: none
+display : none- Ẩn phần tử khỏi giao diện (xóa cả không gian nó đang chiếm)
+
+3. visibility
+visibility -  Ẩn hoặc hiện element
