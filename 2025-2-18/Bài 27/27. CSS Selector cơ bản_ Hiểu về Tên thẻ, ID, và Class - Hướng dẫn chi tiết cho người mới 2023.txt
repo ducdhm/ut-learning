@@ -1,0 +1,9 @@
+1. Tag name selector
+2. Class & ID selector
+2.1 ID selector: Khi chỉ muốn áp dụng CSS cho 1 phần tử chỉ định nào đó của HTML → dùng id
+Chỉ áp dụng vào phần thể html có id : line4 
+→ ID là duy nhất, theo quy chuẩn không cho phép đặt trùng id đã có 
+Check code hợp lệ tại: https://validator.w3.org/livalidate by input 
+→ ID, class không được đặt tên bắt đầu bằng số, nều có 2 ký tự trở lên nên đặt đầu hoặc – đề 
+nối 
+2.2 Class selector: Do không thể sử dụng lại tên id → Trong trường hợp muốn khai báo lặp lại thì dùng Class

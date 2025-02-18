@@ -1,0 +1,6 @@
+1. CSS Prefix
+-Khái quát: CSS có rất nhiều thuộc tính, và không phải thuộc tính nào cũng hõ trợ tất cả các trình duyệt
+-Khi gặp các thuộc tính không hỗ trợ all trình duyệt, cần thêm tiền tố prefix để được hỗ trợ
+-Auto prefix: Có thể copy css -> trang web sẽ tự thêm prefix vào cho những thuộc tính cần thiết
+2. Caniuse.com
+-Trang web hỗ trợ kiểm tra thuộc tính CSS Có cần sử dụng thêm prefix để hỗ trợ đa trình duyệt

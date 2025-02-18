@@ -1,0 +1,20 @@
+#Thesecond {
+  color: brown;
+  font-size: 20px;
+}
+
+h1 {
+  color: purple;
+}
+
+.demo {
+  color: lightpink;
+}
+
+.demo2 {
+  color: blueviolet;
+}
+
+.item_ul_1 {
+  list-style: none;
+}
