@@ -1,0 +1,4 @@
+element element   div p            Selects all <p> elements inside <div> elements
+Space   Selector [space] selector2   s2 là con s1
+element>element  div > p           Selects all <p> elements where the parent is a <div> element
+>    Selector>selector2       s2 là con trực tiếp s1

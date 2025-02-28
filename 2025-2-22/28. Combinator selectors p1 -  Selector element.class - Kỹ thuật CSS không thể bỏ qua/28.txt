@@ -1,0 +1,4 @@
+II. Kết hợp các selector
+1. *Selector - Chọn tất cả element
+2. element.class
+element.class p.intro selects all <p> elements with class="intro"

@@ -1,0 +1,1 @@
+element,element    div, p    Selects all <div> elements and all <p> elements
