@@ -1,0 +1,6 @@
+[attribute] [href]  Chọn tất cả thẻ có thuộc tính (property) : href
+[attribute=value] [target="_blank"]  Chọn tất cả các thẻ có thuộc tính có chính xác giá trị: target="_blank"
+[attribute~=value] [title~="pic"] Chọn tất cả các thẻ có thuộc tính : title có chứa từ pic trong giá trị
+[attribute*=value] [title*="pic"] Chọn tất các thẻ có thuộc tính: title có chứa chuỗi pic trong giá trị
+[attribute|=value] [title|="pic"] Chọn tất các thẻ có thuộc tính: title bắt đầu có từ pic
+[attribute^=value] [title^="pic"] Chọn tất các thẻ có thuộc tính: title bắt đầu có từ pic ( không quan tâm space đăng sau)

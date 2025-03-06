@@ -1,0 +1,9 @@
+element+element | div+p | Chọn phần tử <p> đầu tiên được đặt ngay sau phần tử <div>
+Kí tự kết hợp: +
+Nội dung: selector1+selector2
+Ý nghĩa: s2 đầu tiên sát sau s1
+
+element1~element | p~ul | chọn tất cả thẻ < el> nằm sau thẻ <div>
+Ký tự kết hợp: ~
+Nội dùng selector1~selector2
+Ý nghĩa: tất cả s2 nằm phía sau s1

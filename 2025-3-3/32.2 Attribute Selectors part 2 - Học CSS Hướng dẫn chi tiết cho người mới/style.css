@@ -1,0 +1,6 @@
+[title*="I am the biggest"] {
+  color: red;
+}
+[title$="pic"] {
+  color: pink;
+}
