@@ -1,0 +1,9 @@
+:first-child | p:first-child | Chọn các thẻ <p> là thẻ con đầu tiên
+:last-child | p:last-child | Chọn các thẻ <p> là thẻ con cuối cùng
+:nth-child(n) | p:nth-child(2) | Chọn các thẻ <p> là thẻ con thứ hai từ trên xuống
+:nth-last-child(n) | p:nth-last-child(2) | Chọn các thẻ <p> là thẻ con thứ hai, tính từ dưới lên
+:only-child | p:only-child | Chọn các thẻ <p> là thẻ con duy nhất
+selector : pseudo-classes{
+/* khối lệnh css */
+property: value;
+}

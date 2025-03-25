@@ -1,0 +1,26 @@
+1 
+chover 
+p:hover 
+Chọn các thẻ <p> khi di chuột qua
+2 
+active 
+a:active 
+Chọn các thẻ <a> khi nhấn giữ chuột 
+3 
+link 
+a:link 
+Chọn các thẻ <a> có liên kết chưa click vào 
+4 
+visited 
+uzvisited 
+Chọn các thẻ <a> có liên kết đã click truy cập 
+5 
+empty 
+divcempty 
+Chọn các thẻ <div> không có nội dung 
+Chọn thẻ có id="home" khi 
+6 
+target 
+#homectarget 
+trên URL có hash tương ứng. 
+VD: https://domain.com/#home 

@@ -1,0 +1,21 @@
+/* .hovermouse:hover {
+  color: red;
+  font-size: 30px;
+} */
+.hovermouse:active {
+  color: red;
+  font-size: 30px;
+}
+
+.click_me:link {
+  color: chocolate;
+}
+
+.click_me:visited {
+  color: red;
+}
+.div_elm:empty {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}

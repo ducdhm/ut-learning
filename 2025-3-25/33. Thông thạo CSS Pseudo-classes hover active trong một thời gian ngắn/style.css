@@ -1,0 +1,8 @@
+/* .hovermouse:hover {
+  color: red;
+  font-size: 30px;
+} */
+.hovermouse:active {
+  color: red;
+  font-size: 30px;
+}

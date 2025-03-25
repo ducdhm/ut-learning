@@ -1,0 +1,17 @@
+p:first-child {
+  color: red;
+  font-size: 30px;
+}
+/* pt con cuối cùng */
+p:last-child {
+  color: pink;
+  font-size: 35px;
+}
+/* pt con thứ hai
+P:nth-child(2) {
+  color: gray;
+} */
+p:nth-child(odd) {
+  color: red;
+  font-size: 35px;
+}
