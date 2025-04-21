@@ -1,0 +1,8 @@
+p:nth-of-type(3) {
+  color: red;
+  font-size: 30px;
+}
+p:only-of-type {
+  color: pink;
+  font-size: 38px;
+}

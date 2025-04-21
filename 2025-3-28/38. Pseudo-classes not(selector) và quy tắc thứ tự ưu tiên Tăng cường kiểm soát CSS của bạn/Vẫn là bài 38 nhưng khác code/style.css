@@ -1,0 +1,13 @@
+* {
+  color: gray !important;
+}
+
+h1 {
+  color: pink;
+}
+.demo {
+  color: yellow;
+}
+#theh1 {
+  color: brown;
+}

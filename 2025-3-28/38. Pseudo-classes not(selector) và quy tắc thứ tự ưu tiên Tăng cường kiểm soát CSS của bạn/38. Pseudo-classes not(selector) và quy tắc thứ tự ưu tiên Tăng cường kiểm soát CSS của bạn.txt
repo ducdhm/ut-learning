@@ -1,0 +1,8 @@
+:not(selector) .top:not(p) chọn các thẻ có class="top" loại thẻ <p>
+Xếp loại độ mạnh yếu của từng selector
+!important
+Inline style (viết trên code HTML)
+ID(#) selector
+Class(.) hoặc psedo-class (:) selector
+Element selector (h, p, li, div, ...)
+Universal selector (*): bộ chọn chung

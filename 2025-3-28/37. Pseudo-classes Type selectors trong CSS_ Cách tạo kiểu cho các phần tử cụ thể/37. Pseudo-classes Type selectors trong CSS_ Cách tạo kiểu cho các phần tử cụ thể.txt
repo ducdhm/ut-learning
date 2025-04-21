@@ -1,0 +1,4 @@
+:first-of-type | p:first-of-type | Chọn các thẻ <p> xuất hiện đầu tiên trong thẻ cha
+:last-of-type | p:first-of-type | Chọn các thẻ <p> xuất hiện cuối cùng trong thẻ cha
+:nth-of-type | p:nth-of-type (2) | Chọn các thẻ xuất hiện trong thứ n trong thẻ cha
+:only-of-type | p:only-of-type| Chon các thẻ <p> xuất hiện duy nhất trong thẻ cha
