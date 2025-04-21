@@ -1,0 +1,10 @@
+.Avatars {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  margin-left: -50px;
+}
+.Avatars:first-child {
+  margin-left: 0px;
+}
