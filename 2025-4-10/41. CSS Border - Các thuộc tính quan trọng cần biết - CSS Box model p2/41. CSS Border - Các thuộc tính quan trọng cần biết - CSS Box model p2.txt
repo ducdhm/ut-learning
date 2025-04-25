@@ -1,0 +1,11 @@
+Border: Viền - cú pháp viết tắt
+Syntax: độ rộng - kiểu viền - màu viền
+Cách kiểu viền
+-dashed -> đường nét đứt
+-dotted -> viền là các chấm
+-double -> viền có 2 đường song song liền nhau
+-groove -> viền 3D
+-ridge -> viền 3D
+-inset -> viền 3D
+-outset -> viền 3D
+Border-radius: bo góc

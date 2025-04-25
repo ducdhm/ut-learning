@@ -1,0 +1,2 @@
+Margin collapse: Là hiện tượng chồng lặp thuộc tính margin khi 2 phần tử 
+liền kề cùng thiết lập margin với phần tử còn lại theo chiều dọc

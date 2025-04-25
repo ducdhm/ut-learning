@@ -1,0 +1,1 @@
+Margin: sử dụng để xác định khoảng cách giữa các phần tử trên trang

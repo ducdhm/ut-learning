@@ -1,0 +1,3 @@
+Outline: là đường viền bao quanh mép ngoài cùng của dối tượng
+-Không làm tăng kích thước phần tử
+-Nó chỉ đơn giản là 1 vùng bao quanh bên ngoài, chiếm cả phần margin

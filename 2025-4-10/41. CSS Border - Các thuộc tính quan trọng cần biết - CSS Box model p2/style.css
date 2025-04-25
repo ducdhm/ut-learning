@@ -1,0 +1,21 @@
+div {
+  width: 100px;
+  height: 100px;
+  color: gray;
+  background-color: black;
+  padding: 0px 40px 0px 40px;
+  border: 10px solid firebrick;
+  /* border-top: 10px solid lightgray;
+  border-left: 5px dashed pink;
+  border-bottom: 5px dot pink;
+  border-right: 5px double pink; */
+  /* border-width: 10px 20px 30px;
+  border-style: solid;
+  border-color: green */
+  /* border-radius: 30px */
+  /* border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px; */
+  border-radius: 50px 30px 70px 50px;
+}
