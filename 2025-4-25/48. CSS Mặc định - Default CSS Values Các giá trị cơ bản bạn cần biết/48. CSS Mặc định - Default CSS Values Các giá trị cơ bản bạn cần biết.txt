@@ -1,0 +1,4 @@
+Default CSS Values: Trình duyệt sẽ tự thêm vào các thuộc tính mặc đinh để hiển thị các thẻ cơ bản chúng ta đã học
+Thẻ b: bold - in đậm
+Thẻ i: italic - in nghiêng
+thẻ u: underline - gạch chân

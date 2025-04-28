@@ -1,0 +1,3 @@
+box-sizing: content-box và border-box
+Thực tế dự án, ta sử dụng border-box thường xuyên hơn, để kích thước
+khớp với thiết kế, tránh phải tính toán lại phần nội dung
