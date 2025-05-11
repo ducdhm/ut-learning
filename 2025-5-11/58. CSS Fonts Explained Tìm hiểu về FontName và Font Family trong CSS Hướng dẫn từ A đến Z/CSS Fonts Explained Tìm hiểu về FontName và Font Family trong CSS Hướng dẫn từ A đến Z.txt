@@ -1,0 +1,3 @@
+Font không có gai ở đầu chữ cái là sans serif
+font có gai ở đầu là serif
+font có cùng độ rộng là Monospace
