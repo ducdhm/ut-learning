@@ -1,0 +1,14 @@
+strong{
+    /* text-decoration: none;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: overline; */
+    text-decoration: line-through;
+}
+
+.line{
+    text-indent: 20px;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
