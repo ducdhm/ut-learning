@@ -1,0 +1,11 @@
+.box {
+  width: 500px;
+  height: 500px;
+  background-image: url(./bg/abstract-paper-cut-shape-wave-background_474888-4649.avif);
+  background-size: contain;
+  background-size: auto;
+  background-size: 200px;
+  background-size: 100%;
+  background-size: 100% 100%;
+  background-size: 200px 200px;
+}
