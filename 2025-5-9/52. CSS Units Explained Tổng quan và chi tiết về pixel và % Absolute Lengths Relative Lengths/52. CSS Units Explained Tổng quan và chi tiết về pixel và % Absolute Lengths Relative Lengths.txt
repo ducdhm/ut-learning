@@ -1,7 +1,7 @@
 Đơn vị tuyệt đối - Absolute Lengths:
 Unit: px - Ví dụ: 100px - Ý nghĩa: pixels
 Unit: % - ví dụ: 12%	- Ý nghĩa: kích thước bằng 12% so với phần tử cha
-Unit: vw - ví dụ: 50vw	- Ý nghĩa: 50% chiều rộng khung nhìn ( viewport - phần hiển thị trên browser)
-Unit: vh - ví dụ: 20vh - Ý nghĩa: 20% chiều cao khung nhìn ( viewport -Phần hiển thị trên browser
+Unit: vw - ví dụ: 50vw	- Ý nghĩa: 50% chiều rộng khung nhìn (viewport - phần hiển thị trên browser)
+Unit: vh - ví dụ: 20vh - Ý nghĩa: 20% chiều cao khung nhìn (viewport - Phần hiển thị trên browser)
 Unit: em - ví dụ: 2em - Ý nghĩa: kích thước gấp 2 lần font chữ hiện tại ( có kế thừa)
 Unit: rem - ví dụ: 3rem - Ý nghĩa: kích thước gấp 3 lần font chữ root element (không kế thừa)
