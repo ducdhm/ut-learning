@@ -1,0 +1,10 @@
+.box {
+  width: 200px;
+  height: 200px;
+  border: 50px dotted red;
+  padding: 50px;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-origin: border-box;
+  background-origin: content-box;
+}
