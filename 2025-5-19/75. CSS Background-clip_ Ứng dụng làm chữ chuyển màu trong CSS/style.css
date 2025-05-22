@@ -1,0 +1,21 @@
+.box {
+  width: 200px;
+  height: 200px;
+  border: 50px dotted red;
+  padding: 50px;
+  background-clip: border-box;
+  background-clip: padding-box;
+  background-clip: content-box;
+}
+
+.text_hl {
+  color: transparent;
+  background-color: red;
+  background: linear-gradient(
+    270deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(251, 255, 0, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+}
