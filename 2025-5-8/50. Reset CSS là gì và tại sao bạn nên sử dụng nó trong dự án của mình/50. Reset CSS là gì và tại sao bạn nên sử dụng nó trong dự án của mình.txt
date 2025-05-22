@@ -1,3 +1,3 @@
 Default CSS Values: Trình duyệt sẽ tự thêm vào các thuộc tính mặc định để hiển thị các thẻ HTML, tuy
-nhiên các trình duyệt khác cóc thẻ các thuộc tính được thêm vào sẽ khác nhau
+nhiên các trình duyệt khác có thẻ các thuộc tính được thêm vào sẽ khác nhau
 Các thẻ có CSS mặc định làm khó khăn trong việc kiểm soát kích thước và tính toán kích thước so với thiết kế
