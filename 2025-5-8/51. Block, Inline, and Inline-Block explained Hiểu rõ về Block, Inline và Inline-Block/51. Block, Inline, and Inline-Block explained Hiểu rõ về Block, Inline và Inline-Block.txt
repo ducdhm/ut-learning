@@ -1,0 +1,6 @@
+Các thẻ HTML đều có thuộc tính display: 
+-Block
+-Inline
+-Inline-Block
+Các thẻ HTML đều có trạng thái display mặc định, 2 giá trị cơ bản của display là: block và Inline
+9.1 Block Element -> các thẻ ở trạng thái mặc định, luôn chiếm 100% chiều rộng các thẻ cha bất kể nội dung dài hay ngắn

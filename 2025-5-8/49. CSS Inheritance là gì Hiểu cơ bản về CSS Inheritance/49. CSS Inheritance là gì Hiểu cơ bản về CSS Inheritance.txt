@@ -1,0 +1,1 @@
+Inheriance - Kế thừa: các phần tử con nhận được các giá trị thuoojc thính thừa kế từ phần tử cha

@@ -1,0 +1,15 @@
+a{
+    margin-top: 30px;
+    text-decoration: none;
+    background-color:pink;
+    border-radius: 999px;
+    color:black;
+    width: 100px;
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+}
+a:hover{
+    background-color: blue;
+    color: white;
+}
