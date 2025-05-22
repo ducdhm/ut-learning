@@ -1,0 +1,23 @@
+/* .child{
+    width: 10em;
+    height: 10em;
+    background-color: violet;
+}
+.parent{
+    font-style: 2em;
+} */
+ 
+ .parent{
+    font-size: 10px;
+ } 
+ 
+ html{
+    font-size: 100px;
+ }
+ .child{
+    font-size: 2rem;
+    width: 2rem;
+    height: 2rem;
+    background-color: yellow;
+    border: 0.2rem solid red;
+ }
