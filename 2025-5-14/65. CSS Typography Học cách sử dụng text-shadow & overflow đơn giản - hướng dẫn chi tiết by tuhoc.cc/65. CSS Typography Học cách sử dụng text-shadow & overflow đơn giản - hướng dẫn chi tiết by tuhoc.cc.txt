@@ -1,0 +1,6 @@
+Visible (default): thuộc tính mặc định: hiển thị nội dung kể cả vượt box chứa
+hidden: ẩn nội dung: khi nội dung vượt box chứa
+scroll: Tạo thanh cuộn: luôn hiển thị vùng thanh cuốn
+auto: 
+1. Nếu nội dung ngắn -> không có scroll bar
+2. Nếu nội dung vượt box chứa -> tự động sinh ra scroll bar
