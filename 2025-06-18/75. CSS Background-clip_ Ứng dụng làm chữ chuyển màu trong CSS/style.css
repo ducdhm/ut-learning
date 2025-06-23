@@ -1,0 +1,17 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-image: url(./bg/wallpaper1.jpg);
+    border: 50px dotted red;
+    padding: 50px;
+    background-clip: border-box;
+}
+
+.text_hl{
+    color: transparent;
+    background-color: blue;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
