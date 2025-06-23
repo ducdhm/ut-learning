@@ -1,0 +1,30 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 50px dotted red;
+    padding: 50px;
+
+    background-color: cyan;
+    background-image: url(./bg/wallpaper1.jpg);
+    /* background-position: top left;
+    background-position: top right;
+    background-position: bottom left;
+    background-position: bottom right;
+    background-position: center;
+    background-repeat: left;
+    background-repeat: right;
+    background-repeat: top;
+    background-repeat: bottom; */
+
+    /* background-size: contain;
+    background-size: cover;
+
+    background-repeat: repeat;
+    background-repeat: no-repeat; */
+
+    /* background-origin: padding-box;
+    background-origin: border-box;
+    background-origin: content-box; */
+
+    background-clip: border-box;
+}
