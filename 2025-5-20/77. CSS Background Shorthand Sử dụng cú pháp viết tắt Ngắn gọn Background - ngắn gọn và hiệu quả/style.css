@@ -1,0 +1,32 @@
+.box {
+  /* background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit; */
+  width: 200px;
+  height: 200px;
+  border: 50px dotted red;
+  padding: 50px;
+
+  /* background-color: cyan;
+  background-image: url(./bg/871803.jpg);
+  background-position: top right;
+  background-position: top left;
+  background-position: bottom left;
+  background-position: bottom right;
+  background-position: right;
+  background-position: left;
+  background-position: top;
+  background-position: bottom;
+  background-position: center;
+
+  background-position: 0 100%;
+  background-position: 0 100px; */
+
+  background-size: contain;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  background-repeat: repeat;
+
+  background-clip: padding-box;
+  background-clip: border-box;
+  background-clip: content-box;
+}
