@@ -1,0 +1,19 @@
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  background: url(./bg/Hinh-anh-anime-dang-yeu-khong-the-cuong-duoc-3.jpg)
+    center/cover;
+  /* clip-path: circle(50% at 50% 40%); */
+
+  clip-path: inset(20px);
+  clip-path: inset(20px 50px);
+  clip-path: inset(20px 50px 80px);
+  clip-path: inset(20px 50px 80px 30px);
+
+  clip-path: inset(20px round 15px 50px 80px);
+
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 30% 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%);
+  border-radius: 15px;
+}

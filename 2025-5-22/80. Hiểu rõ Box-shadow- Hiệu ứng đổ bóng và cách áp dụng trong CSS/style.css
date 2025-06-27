@@ -1,0 +1,12 @@
+.box {
+  width: 150px;
+  height: 150px;
+  margin: 150px;
+  background-color: yellow;
+  /* box-shadow: 60px -15px black;
+  box-shadow: 60px -15px 5px black;
+  box-shadow: 60px -15px 5px 10px rgba(0, 0, 0, 0.445); */
+  /* box-shadow: inset 15px 25px 30px 15px red; */
+  box-shadow: 160px 0 red, 0 160px, gray 160px 160px;
+  border-radius: 15px;
+}
