@@ -1,0 +1,21 @@
+.box{
+    width: 100px;  
+    height: 100px;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+    background-color: red;
+    position: static; /* This is the default position */
+}
+
+.box2{
+    background-color: blue;
+}
+
+.box3{
+    background-color: green;
+}

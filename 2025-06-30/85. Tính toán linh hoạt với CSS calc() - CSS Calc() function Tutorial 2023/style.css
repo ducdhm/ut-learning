@@ -1,0 +1,12 @@
+.nav{
+    height: 100px;
+    background-color: gray;
+    width: calc(100% - 100px);
+    margin: 0 auto;
+}
+
+.main_content{
+    background-color: blue;
+    width: calc(100vh - 100px);
+    margin: 0 auto;
+}
