@@ -1,0 +1,20 @@
+* {
+  font-size: 1.5rem;
+}
+
+.container {
+  display: flex;
+  background: cyan;
+  /* justify-content: flex-start; */
+  /* justify-content: flex-end; */
+  /* justify-content: center; */
+  /* justify-content: space-between; */
+  justify-content: space-around;
+}
+
+.box {
+  background: lightblue;
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 0.5rem;
+}
